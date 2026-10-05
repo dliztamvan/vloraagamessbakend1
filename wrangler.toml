@@ -1,0 +1,13 @@
+name = "vloraagamessbakend1"
+main = "index.js"
+compatibility_date = "2026-09-30"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "velora"
+database_id = "dfc6ec73-3f6d-4c97-a573-75b45fd73705"
+
+[vars]
+ADMIN_FEE = "3000"
+SELLER_PRICE = "15000"
+SELLER_DAYS = "15"
